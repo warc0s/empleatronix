@@ -12,7 +12,7 @@ Una aplicación Streamlit para visualizar datos de empleados de manera interacti
 
 ## Prueba en Streamlit Cloud
 
-Puedes probar la aplicación en [Streamlit Cloud - PROXIMAMENTE](https://empleatronix.streamlit.app/).
+Puedes probar la aplicación en [Streamlit Cloud](https://empleatronix-mge.streamlit.app).
 
 ## Instalación Local
 
